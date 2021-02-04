@@ -1,0 +1,15 @@
+[submodule "bsc_msc_cs/ai/USAccidents"]
+        path = bsc_msc_cs/ai/USAccidents
+        url = https://github.com/javiergarea/USAccidents
+[submodule "bsc_msc_cs/sw/inquiry"]
+        path = bsc_msc_cs/sw/inquiry
+        url = https://github.com/javiergarea/inquiry
+[submodule "bsc_msc_cs/sw/chromium.tex"]
+	path = bsc_msc_cs/sw/chromium.tex
+	url = https://github.com/MartinSandeCosta/chromium.tex
+[submodule "bsc_msc_cs/cybersecurity/vigenere_cryptanalysis"]
+	path = bsc_msc_cs/cybersecurity/vigenere_cryptanalysis
+	url = https://github.com/MartinSandeCosta/vigenere_cryptanalysis
+[submodule "bsc_msc_cs/sw/morsegram"]
+	path = bsc_msc_cs/sw/morsegram
+	url = https://github.com/pablocostass/morsegram
